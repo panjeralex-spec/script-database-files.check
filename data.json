@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Auto-Clicker",
+      "language": "Python",
+      "description": "Simple automation.",
+      "file": "scripts/python/auto_clicker.py"
+    },
+    {
+      "name": "Network Pinger",
+      "language": "JavaScript",
+      "description": "Checks network.",
+      "file": "scripts/js/pinger.js"
+    }
+  ]
